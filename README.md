@@ -1,2 +1,0 @@
-# hwtwo
-homework2
